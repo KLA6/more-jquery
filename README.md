@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/KLA6/more-jquery/main/index_logo.svg" height="64"><br>
 <br><br><br><br></p>
 
-# More Vanilla by KLA6
+# More jQuery by KLA6
 Add miscellaneous functions to jQuery.
 
 ## Type
