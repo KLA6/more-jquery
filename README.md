@@ -1,16 +1,16 @@
 <p align="center"><br><br><br><br>
-<img src="https://raw.githubusercontent.com/KLA6/more-vanilla/main/index_logo.svg" height="64"><br>
+<img src="https://raw.githubusercontent.com/KLA6/more-jquery/main/index_logo.svg" height="64"><br>
 <br><br><br><br></p>
 
 # More Vanilla by KLA6
-Add miscellaneous functions to VanillaJS.
+Add miscellaneous functions to jQuery.
 
 ## Type
 - JavaScript Library
 
 ## Install with CDN
 ```
-<script src="https://cdn.jsdelivr.net/gh/KLA6/more-vanilla/more-vanilla.min.js" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/gh/KLA6/more-jquery/more-jquery.min.js" crossorigin="anonymous">
 ```
 
 ## Example
@@ -26,10 +26,10 @@ Add miscellaneous functions to VanillaJS.
 ```
 
 ## Code
-- https://cdn.jsdelivr.net/gh/KLA6/more-vanilla/more-vanilla.js
+- https://cdn.jsdelivr.net/gh/KLA6/more-jquery/more-jquery.js
 
 ## Distribution
-- https://cdn.jsdelivr.net/gh/KLA6/more-vanilla/more-vanilla.min.js
-- https://www.jsdelivr.com/package/gh/KLA6/more-vanilla
-- https://github.com/KLA6/more-vanilla
-- https://more-vanilla.kla6.net
+- https://cdn.jsdelivr.net/gh/KLA6/more-jquery/more-jquery.min.js
+- https://www.jsdelivr.com/package/gh/KLA6/more-jquery
+- https://github.com/KLA6/more-jquery
+- https://more-jquery.kla6.net
