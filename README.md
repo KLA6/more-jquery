@@ -10,7 +10,7 @@ Add miscellaneous functions to jQuery.
 
 ## Install with CDN
 ```
-<script src="https://cdn.jsdelivr.net/gh/KLA6/more-jquery/more-jquery.min.js" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/gh/KLA6/more-jquery/k6.min.js" crossorigin="anonymous">
 ```
 
 ## Example
@@ -26,10 +26,10 @@ Add miscellaneous functions to jQuery.
 ```
 
 ## Code
-- https://cdn.jsdelivr.net/gh/KLA6/more-jquery/more-jquery.js
+- https://cdn.jsdelivr.net/gh/KLA6/more-jquery/k6.js
 
 ## Distribution
-- https://cdn.jsdelivr.net/gh/KLA6/more-jquery/more-jquery.min.js
+- https://cdn.jsdelivr.net/gh/KLA6/more-jquery/k6.min.js
 - https://www.jsdelivr.com/package/gh/KLA6/more-jquery
 - https://github.com/KLA6/more-jquery
 - https://more-jquery.kla6.net
