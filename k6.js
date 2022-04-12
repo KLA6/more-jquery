@@ -2,7 +2,7 @@ if( typeof CL == 'undefined' ) CL = console.log
 
 $( () => {
   if( $('[name="csrf-token"]'       ).length > 0 ) $( () => $.ajaxSetup( { headers: { 'X-CSRF-TOKEN': $('[name="csrf-token"]'       ).attr   ( 'content' ) } } ) )
-  if( $('[data-bs-toggle="tooltip"]').length > 0 )                                               jquery('[data-bs-toggle="tooltip"]').tooltip(           ) // https://stackoverflow.com/a/41961828/8930845
+  if( $('[data-bs-toggle="tooltip"]').length > 0 )                                               jQuery('[data-bs-toggle="tooltip"]').tooltip(           ) // https://stackoverflow.com/a/41961828/8930845
 } )
 
 class k6 {
